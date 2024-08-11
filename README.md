@@ -3,8 +3,9 @@ A discord Nuker Written In Python By Aizer . Just Like "Lithium Nuker" . Not A S
 
 # Dev
 - AIZER 
-- mohit.4sure#0
-- https://discord.gg/coderz
+- aesthetic.aizer#0000
+- https://discord.gg/rexa
+- https://rexabot.tech
 
 # Open Source Nuker 
 
